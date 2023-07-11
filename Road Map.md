@@ -2,8 +2,9 @@
 
 1. ~~Initialize git repo~~
 2. ~~Set imports~~
-3. Configure venv
-4. Upload git repo to Github
+3. ~~Configure venv~~
+4. ~~Upload git repo to Github~~
+5. Add a readme
 
 # **Phase 1 - Research**
 
